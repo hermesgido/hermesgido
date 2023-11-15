@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Starts](https://github-readme-stats.vercel.app/api?username=hermesgido)
+![Github Starts](https://github-readme-stats.vercel.app/api?username=hermesgido&theme=radical)
 
 <!--
 **hermesgido/hermesgido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
